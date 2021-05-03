@@ -32,23 +32,6 @@ pip3 install .
 Of course, depending on your system and version of `Python` you might have to substitute the command 
 `pip3` for `pip`.
 
-#### Debian package
-
-With the `Debian` package you can not only install the package but easily deploy the project. 
-If you have downloaded the package simply run
-
-```
-sudo dpkg -i client-frontend.deb
-```
-
-If this fails due to missing dependencies run
-
-```
-sudo apt-get -f install
-```
-
-You should now be good and ready.
-
 ## Running the tests
 
 `pytest` has been setup as the test runner of this package. You can run the tests with the following command:
@@ -86,10 +69,10 @@ We use [Gitlab](https://gitlab.com/) for versioning. For the versions available,
 
 ## Authors
 
-* **Gerd Neugebauer** - [gne](https://iteragit.iteratec.de/gne) - *Idea*
-* **Masud Afschar** - [mafschar](https://iteragit.iteratec.de/mafschar) - *Initial work*
+* **Gerd Neugebauer** - [ge-ne](https://github.com/ge-ne) - *Idea*
+* **Masud Afschar** - [Afsharov](https://github.com/Afsharov) - *Initial work*
 
-See also the list of [contributors](https://iteragit.iteratec.de/observer-hive/client-frontend/graphs/master) who participated in this project.
+See also the list of [contributors](https://github.com/Afsharov/observer-frontend/graphs/contributors) who participated in this project.
 
 ## License
 
@@ -97,4 +80,4 @@ This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICE
 
 ## Acknowledgments
 
-* Many thanks to **Chau** - [cpham](https://iteragit.iteratec.de/cpham) - for his constant help.
+* Many thanks to **Chau** - [Chau362](https://github.com/Chau362) - for his constant help.

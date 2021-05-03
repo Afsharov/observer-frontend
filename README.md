@@ -65,7 +65,7 @@ For more information on `Sphinx` and how to expand the docs see
 
 ## Versioning
 
-We use [Gitlab](https://gitlab.com/) for versioning. For the versions available, see the [tags on this repository](https://iteragit.iteratec.de/observer-hive/client-frontend.git). 
+We use [GitHub](https://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Afsharov/observer-frontend/tags). 
 
 ## Authors
 

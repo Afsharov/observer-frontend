@@ -5,7 +5,7 @@ This module is the client side server process of the observer-hive. It allows yo
 from webservices such as Gitlab, Jenkins and Sonarqube. If you are interested in the full project you should
 take a look at its counterpart: the [conductor server](https://iteragit.iteratec.de/observer-hive/scab-oberserver-hive).
 
-[![Build Status](https://www.travis-ci.org/Afsharov/observer-frontend.svg?branch=master)](https://travis-ci.org/Afsharov/observer-frontend) [![codecov](https://codecov.io/gh/Afsharov/observer_frontend/branch/master/graph/badge.svg?)](https://codecov.io/gh/Afsharov/observer_frontend) 
+[![Build Status](https://www.travis-ci.org/Afsharov/observer-frontend.svg?branch=master)](https://travis-ci.org/Afsharov/observer-frontend) [![codecov](https://codecov.io/gh/Afsharov/observer-frontend/branch/master/graph/badge.svg?token=LC3BB7EZFA)](https://codecov.io/gh/Afsharov/observer-frontend) 
 
 
 ## Getting Started

@@ -5,7 +5,7 @@ python: "3.7"
 before_install:
   - sudo apt-get install -y python3-dev libasound2-dev
 install:
-  - pip3 install codecov
+  - pip3 install codecov pytest-cov
   - pip3 install -r requirements.txt
 
 script: python3 setup.py test
